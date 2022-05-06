@@ -33,7 +33,7 @@ https://github.com/alessandre74/Login-Animatable.git
 Acesse o diretório do projeto
 
 ```
-cd login
+cd Login-Animatable
 ```
 
 Instale as dependências
